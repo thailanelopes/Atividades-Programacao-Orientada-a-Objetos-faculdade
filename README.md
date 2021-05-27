@@ -1,4 +1,4 @@
-# Atividades-Programação-Orientada-a-Objetos
+# Atividades-Programação-Orientada-a-Objetos.
 Atividades realizadas na matéria da de Programação Orientada a Objetos, da faculdade.
 
 ## Conceitos POO – Parte 1:
